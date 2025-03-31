@@ -35,3 +35,28 @@
     margin-top: 2em;
   }
 }
+
+.about__content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.about__text {
+  flex: 1;
+  max-width: 60%;
+}
+
+.about__image {
+  flex-shrink: 0; /* Prevents image from shrinking */
+  margin-left: 20px; /* Optional: Adds spacing between text and image */
+}
+
+.about__image img {
+  width: 250px; /* Adjust the width of the image */
+  height: auto;
+  border-radius: 50%; /* Optional: Makes the image circular */
+  object-fit: cover; /* Ensures proper scaling of image */
+}
+
+
