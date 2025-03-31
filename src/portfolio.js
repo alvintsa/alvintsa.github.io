@@ -24,28 +24,28 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'AlvinGPT',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'A flexibile chatbot that combines Information Retrieval, SEO, NLP, and AI techniques to allow people to have an interactive Google-like search!',
+    stack: ['Python', 'ReactJS', 'Google Cloud Platform'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
   {
-    name: 'Project 2',
+    name: 'clamp',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A Python package that simplifies clustering of LLM next-word predictions with an end-to-end pipeline for seamless analysis.',
+    stack: ['Python', 'Pytorch', 'YAML'],
+    sourceCode: 'https://github.com/calicolab/clamp',
+    // livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'Steins Gate Auctions',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A deployed full-stack e-commerce web application that is themed after the teamapos favorite anime. It incorporates various Web Development techniques such as TCP, IP, and HTTP protocols, authentication, security, and WebSockets.',
+    stack: ['Python', 'JavaScript', 'HTML', 'CSS', 'Docker', 'MongoDB', 'Digital Ocean'],
+    sourceCode: 'https://github.com/alvintsa/Steinsgateauctions-CSE312-Project',
+    // livePreview: 'https://github.com',
   },
 ]
 
