@@ -13,7 +13,7 @@ const about = {
   in 2023. Along with my current studies, I work with two professors, 
   conducting research in NLP, AI, and Software; each in their respective labs: Computational Linguistics 
   and Cognition (CaLiCo) Lab, and Computational and Equity (cUBe) Lab.`,
-  resume: 'https://example.com',
+  resume: 'https://alvintsa.github.io/resume-page/alvin-tsang-resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/alvintsa/',
     github: 'https://github.com/alvintsa',
