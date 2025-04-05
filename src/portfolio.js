@@ -9,15 +9,15 @@ const about = {
   name: 'Alvin',
   // role: 'Aspiring Software Engineer',
   description: `I'm currently a Master's Student in Computer Science at the University at Buffalo, 
-    where I also received my Bachelor's in Computer Science with Minors in Japanese, Mathematics, and Sociology 
-    in 2023. Along with my current studies, I work with two professors, 
-    conducting research in NLP, AI, and Software; each in their respective labs: 
-    <a href="https://www.acsu.buffalo.edu/~cxjacobs/index/CaLiCo_Lab.html" target="_blank" rel="noopener noreferrer">
-      Computational Linguistics and Cognition (CaLiCo) Lab
-    </a>, and
-    <a href="https://cse.buffalo.edu/cubelab/" target="_blank" rel="noopener noreferrer">
-      Computational and Equity (cUBe) Lab
-    </a>.`,
+  where I also received my Bachelor's in Computer Science with Minors in Japanese, Mathematics, and Sociology 
+  in 2023. Along with my current studies, I work with two professors, 
+  conducting research in NLP, AI, and Software; each in their respective labs: 
+  <a href="https://www.buffalo.edu/cs/research/calico.html" target="_blank" rel="noopener noreferrer" style="color: #ff6347; font-weight: bold;">
+    Computational Linguistics and Cognition (CaLiCo) Lab
+  </a>, and
+  <a href="https://www.buffalo.edu/cs/research/cube.html" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; font-weight: bold;">
+    Computational and Equity (cUBe) Lab
+  </a>.`,   
   resume: 'https://alvintsa.github.io/resume-page/alvin-tsang-resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/alvintsa/',
