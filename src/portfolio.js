@@ -28,7 +28,7 @@ const projects = [
     description:
       'A flexibile chatbot that combines Information Retrieval, SEO, NLP, and AI techniques to allow people to have an interactive Google-like search!',
     stack: ['Python', 'ReactJS', 'Google Cloud Platform'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/alvintsa/AlvinGPT-public',
     // livePreview: 'https://github.com',
   },
   {
