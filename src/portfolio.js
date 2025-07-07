@@ -15,8 +15,8 @@ const about = {
     Computational Linguistics and Cognition (CaLiCo) Lab
   </a>, and
   <a href="https://cse.buffalo.edu/cubelab/" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; font-weight: bold;">
-    Computational and Equity (cUBe) Lab
-  </a>. I also love learning and meeting new people!`,   
+    Computational and Equity (cUBe) Lab.
+  </a> I also love learning and meeting new people!`,   
   resume: 'https://alvintsa.github.io/resume-page/alvin-tsang-resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/alvintsa/',
