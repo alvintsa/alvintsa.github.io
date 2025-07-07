@@ -11,11 +11,11 @@ const about = {
   description: `I'm currently a Master's Student in Computer Science at the University at Buffalo. 
   Along with my studies, I work with two professors, 
   conducting research in NLP, AI, and Software; each in their respective labs: 
-  <a href="https://www.acsu.buffalo.edu/~cxjacobs/index/CaLiCo_Lab.html" target="_blank" rel="noopener noreferrer" style="color: #ff6347; font-weight: bold;">
-    Computational Linguistics and Cognition (CaLiCo) Lab
-  </a>, and
   <a href="https://cse.buffalo.edu/cubelab/" target="_blank" rel="noopener noreferrer" style="color: #1e90ff; font-weight: bold;">
-    Computational and Equity (cUBe) Lab.
+    Computational and Equity (cUBe) Lab, and
+  <a href="https://www.acsu.buffalo.edu/~cxjacobs/index/CaLiCo_Lab.html" target="_blank" rel="noopener noreferrer" style="color: #ff6347; font-weight: bold;">
+    Computational Linguistics and Cognition (CaLiCo) Lab.
+  </a>
   </a> I also love learning and meeting new people!`,   
   resume: 'https://alvintsa.github.io/resume-page/alvin-tsang-resume.pdf',
   social: {
