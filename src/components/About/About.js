@@ -14,7 +14,7 @@ const About = () => {
         <div className="about__text">
           {name && (
             <h1>
-              Hi! I&apos;m <span className="about__name">{name}</span>
+              Hi, I&apos;m <span className="about__name">{name}</span>!
             </h1>
           )}
           
