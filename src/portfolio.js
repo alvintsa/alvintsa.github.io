@@ -51,6 +51,14 @@ const projects = [
     sourceCode: 'https://github.com/alvintsa/Steinsgateauctions-CSE312-Project',
     // livePreview: 'https://github.com',
   },
+    {
+    name: 'Language Learning App',
+    description:
+      'A mobile-friendly web app with a Tinder swipe interface that uses AI, fine-tuned LLMs, and linguistic analysis to help language learners practice word choice. It also gathers data on common learner challenges to guide research and improvements.',
+    stack: ['Python', 'Pytorch', 'ReactJS', 'HTML', 'CSS', 'SQL'],
+    sourceCode: 'https://github.com/alvintsa/Steinsgateauctions-CSE312-Project',
+    // livePreview: 'https://github.com',
+  },
 ]
 
 const skills = [
