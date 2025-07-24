@@ -30,7 +30,7 @@ const projects = [
   {
     name: 'AlvinGPT',
     description:
-      'A flexibile chatbot that combines Information Retrieval, SEO, NLP, and AI techniques to allow people to have an interactive Google-like search!',
+      'Flexibile chatbot that combines Information Retrieval, SEO, NLP, and AI techniques to allow people to have an interactive Google-like search!',
     stack: ['Python', 'ReactJS', 'Google Cloud Platform'],
     sourceCode: 'https://github.com/alvintsa/AlvinGPT-public',
     // livePreview: 'https://github.com',
@@ -38,7 +38,7 @@ const projects = [
   {
     name: 'clamp',
     description:
-      'A Python package that simplifies clustering of LLM next-word predictions with an end-to-end pipeline for seamless analysis.',
+      'Python package that simplifies clustering of LLM next-word predictions with an end-to-end pipeline for seamless analysis.',
     stack: ['Python', 'Pytorch', 'YAML'],
     sourceCode: 'https://github.com/calicolab/clamp',
     // livePreview: 'https://github.com',
@@ -54,7 +54,7 @@ const projects = [
   {
     name: 'Language Learning App (In Progress)',
     description:
-      'A mobile-friendly web app with a Tinder swipe interface that uses AI, fine-tuned LLMs, and linguistic analysis to help language learners practice word choice. It also gathers data on common learner challenges to guide research and improvements.',
+      'Mobile-friendly web app with a Tinder swipe interface that uses AI, fine-tuned LLMs, and linguistic analysis to help language learners practice word choice. It also gathers data on common learner challenges to guide research and improvements.',
     stack: ['Python', 'Pytorch', 'ReactJS', 'HTML', 'CSS', 'SQL'],
     // sourceCode: 'https://github.com/alvintsa/Steinsgateauctions-CSE312-Project',
     // livePreview: 'https://github.com',
