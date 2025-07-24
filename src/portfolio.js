@@ -51,12 +51,20 @@ const projects = [
     sourceCode: 'https://github.com/alvintsa/Steinsgateauctions-CSE312-Project',
     // livePreview: 'https://github.com',
   },
-    {
-    name: 'Language Learning App',
+  {
+    name: 'Language Learning App (In Progress)',
     description:
       'A mobile-friendly web app with a Tinder swipe interface that uses AI, fine-tuned LLMs, and linguistic analysis to help language learners practice word choice. It also gathers data on common learner challenges to guide research and improvements.',
     stack: ['Python', 'Pytorch', 'ReactJS', 'HTML', 'CSS', 'SQL'],
-    sourceCode: 'https://github.com/alvintsa/Steinsgateauctions-CSE312-Project',
+    // sourceCode: 'https://github.com/alvintsa/Steinsgateauctions-CSE312-Project',
+    // livePreview: 'https://github.com',
+  },
+  {
+    name: 'WhatShouldIEat? (In Progress)',
+    description:
+      'Deciding what to eat is a huge issue in our society. This Swift iOS app chooses for you through personalized weighted recommendations and an AI chat feature',
+    stack: ['Swift', 'SQL', 'OpenAI'],
+    // sourceCode: 'https://github.com/alvintsa/Steinsgateauctions-CSE312-Project',
     // livePreview: 'https://github.com',
   },
 ]
