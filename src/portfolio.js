@@ -52,6 +52,14 @@ const projects = [
     // livePreview: 'https://github.com',
   },
   {
+    name: 'Tessarae',
+    description:
+      'Open-source software project that detects and analyzes forms of textual relatedness, including allusion and intertextuality, principally among ancient Greek and Latin literary texts.',
+    stack: ['Python', 'JavaScript', 'HTML', 'CSS', 'Docker'],
+    sourceCode: 'https://tesserae.caset.buffalo.edu/',
+    // livePreview: 'https://github.com',
+  },
+  {
     name: 'Language Learning App (In Progress)',
     description:
       'Mobile-friendly web app with a Tinder swipe interface that uses AI, fine-tuned LLMs, and linguistic analysis to help language learners practice word choice. It also gathers data on common learner challenges to guide research and improvements.',
