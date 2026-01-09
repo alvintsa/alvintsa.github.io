@@ -30,10 +30,10 @@ const projects = [
   {
     name: 'AlvinGPT',
     description:
-      'Flexibile chatbot that combines Information Retrieval, SEO, NLP, and AI techniques to allow people to have an interactive Google-like search!',
+      'Flexibile RAG chatbot that combines Information Retrieval, SEO, NLP, and AI techniques to allow people to have an interactive Google-like search!',
     stack: ['Python', 'ReactJS', 'Google Cloud Platform'],
     sourceCode: 'https://github.com/alvintsa/AlvinGPT-public',
-    // livePreview: 'https://github.com',
+    livePreview: 'https://alvingpt-public.onrender.com/',
   },
   {
     name: 'clamp',
@@ -44,20 +44,28 @@ const projects = [
     // livePreview: 'https://github.com',
   },
   {
+    name: 'ParkABull',
+    description:
+      'Group Hackathon project that attempts to solve parking issues on the University at Buffalo North Campus through community-focused features and parking lot vacancies through Computer Vision.',
+    stack: ['Python', 'NextJS', 'TypeScript', 'PostgreSQL',' OpenCV', 'Roboflow'],
+    sourceCode: 'https://github.com/ctien2/ParkABull/tree/main',
+    livePreview: 'https://parkabull-1.onrender.com/',
+  },
+  {
     name: 'Steins Gate Auctions',
     description:
       'A deployed full-stack e-commerce web application that is themed after the teamapos favorite anime. It incorporates various Web Development techniques such as TCP, IP, and HTTP protocols, authentication, security, and WebSockets.',
     stack: ['Python', 'JavaScript', 'HTML', 'CSS', 'Docker', 'MongoDB', 'Digital Ocean'],
     sourceCode: 'https://github.com/alvintsa/Steinsgateauctions-CSE312-Project',
-    // livePreview: 'https://github.com',
+    livePreview: 'https://steinsgateauctions.onrender.com/',
   },
   {
     name: 'Tessarae',
     description:
       'Open-source software project that detects and analyzes forms of textual relatedness, including allusion and intertextuality, principally among ancient Greek and Latin literary texts.',
     stack: ['Python', 'JavaScript', 'HTML', 'CSS', 'Docker'],
-    sourceCode: 'https://tesserae.caset.buffalo.edu/',
-    // livePreview: 'https://github.com',
+    // sourceCode: 'https://tesserae.caset.buffalo.edu/',
+    livePreview: 'https://github.comhttps://tesserae.caset.buffalo.edu/',
   },
   {
     name: 'Language Learning App (In Progress)',
